@@ -1,3 +1,9 @@
+[![Build Status](https://travis-ci.org/boxpositron/chromium-finder.svg?branch=master)](https://travis-ci.org/boxpositron/chromium-finder)
+
+[![GitHub issues](https://img.shields.io/github/issues/boxpositron/chromium-finder.svg)](https://github.com/boxpositron/chromium-finder/issues)
+
+
+[![GitHub license](https://img.shields.io/github/license/boxpositron/chromium-finder.svg)](https://github.com/boxpositron/chromium-finder/blob/master/LICENSE)
 
 
 # chromium-finder  
