@@ -1,9 +1,9 @@
 {
-  "name": "chrome-finder",
+  "name": "chromium-finder",
   "version": "1.0.5",
-  "description": "find a executable chrome in your system automatic",
+  "description": "Look for existing installations of chromium on your system",
   "keywords": [
-    "chrome",
+    "chromium",
     "find",
     "finder"
   ],
@@ -13,14 +13,23 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:gwuhaolin/chrome-finder.git"
+    "url": "git+ssh://git@github.com/boxpositron/chromium-finder.git"
   },
   "scripts": {
     "test": "mocha test"
   },
-  "author": "gwuhaolin",
-  "license": "ISC",
+  "author": "Ibia David <david.ibia@boxmarshall.com>",
+  "license": "MIT",
   "devDependencies": {
     "mocha": "^3.4.2"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/boxpositron/chromium-finder/issues"
+  },
+  "homepage": "https://github.com/boxpositron/chromium-finder#readme",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {}
 }
